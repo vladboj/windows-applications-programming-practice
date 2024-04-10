@@ -1,0 +1,11 @@
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\bin\Debug\de_lucrat_pentru_paw_4.exe.config
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\bin\Debug\de_lucrat_pentru_paw_4.exe
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\bin\Debug\de_lucrat_pentru_paw_4.pdb
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.csproj.AssemblyReference.cache
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.AddEditForm.resources
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.MainForm.resources
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.Properties.Resources.resources
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.csproj.GenerateResource.cache
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.csproj.CoreCompileInputs.cache
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.exe
+C:\Users\vladb\mine\Visual Studio projects\de_lucrat_pentru_paw_4\de_lucrat_pentru_paw_4\obj\Debug\de_lucrat_pentru_paw_4.pdb
